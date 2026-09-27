@@ -1,0 +1,5 @@
+name: hermes-backup
+kind: plugin
+version: 1.0.0
+description: Vollstaendige lokale Hermes-Backups in einen externen Ordner, mit Zeitplan und bestaetigter Wiederherstellung
+author: Oliver
